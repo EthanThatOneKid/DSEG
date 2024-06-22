@@ -1,6 +1,26 @@
 DSEG Font Family
 ====
 
+## Ethan's fork
+
+### Usage
+
+To use the 7-segment font in your own projects, refer to the following code:
+
+```html
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="https://cdn.jsdelivr.net/gh/EthanThatOneKid/DSEG/css/dseg.css"
+/>
+```
+
+```css
+p {
+  font-family: "DSEG7-Classic";
+}
+```
+
 ## Overview
 
 DSEG is a free font which imitate LCD Display (7SEG, 14SEG, Weather icons etc.).
